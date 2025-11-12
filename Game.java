@@ -15,9 +15,7 @@ public class Game {
 		 * System.out.println(rnd.nextInt(9)+1); //1-9 }
 		 */
 
-		// we will ask the user to make a move - method
-		// computer makes a move - method
-		// display who won the game
+	
 
 		System.out.println("Lets play a game");
 		System.out.println("First you go!");
@@ -70,3 +68,4 @@ public class Game {
 	}
 
 }
+
